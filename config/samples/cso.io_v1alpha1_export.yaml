@@ -1,0 +1,6 @@
+apiVersion: cso.io.cso.io/v1alpha1
+kind: Export
+metadata:
+  name: export-sample
+spec:
+  # TODO(user): Add fields here
